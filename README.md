@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Obinna Duru  
 
 Welcome to my GitHub profile! 🚀  
-I’m a **web designer, storyteller, and developer-in-progress** with a passion for blending **tech, creativity, and problem-solving**.  
+I’m a **web designer, storyteller, and developer** with a passion for blending **tech, creativity, and problem-solving**.  
 
 ---
 
