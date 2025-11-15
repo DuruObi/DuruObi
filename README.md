@@ -34,7 +34,7 @@ I’m a **web designer, storyteller, and developer** with a passion for blending
 - 🌐 Portfolio: *(coming soon)*  
 - 📧 Email: **3878oed@gmail.com**  
 - 🐦 Twitter/X: *@immaduru*  
-- 💼 LinkedIn: *Duruwebs*  
+- 💼 LinkedIn: *@3878OEDTECH*  
 
 ---
 
