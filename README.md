@@ -31,10 +31,10 @@ I’m a **web designer, storyteller, and developer** with a passion for blending
 ---
 
 ## 📫 Connect with Me  
-- 🌐 Portfolio: *3878oed.com*  
+- 🌐 Portfolio: **3878oed.com** 
 - 📧 Email: **3878oed@gmail.com**  
-- 🐦 Twitter/X: *@immaduru*  
-- 💼 LinkedIn: *@3878OEDTECH*  
+- 🐦 Twitter/X: **@immaduru**
+- 💼 LinkedIn: **@3878OEDTECH** 
 
 ---
 
